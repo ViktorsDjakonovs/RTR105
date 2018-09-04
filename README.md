@@ -1,6 +1,5 @@
 # RTR105
-# = Datormācības kurss elektroniskā klade =
-
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">Datormācības kurss elektroniskā klade</div>
 
 ctrl + alt + T /atvert terminalu
 
