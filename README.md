@@ -1,7 +1,7 @@
 # RTR105
-<div class="center">Datormācības kurss elektroniskā klade</div>
+# Datormācības kurss elektroniskā klade
 
-ctrl + alt + T /atvert terminalu
+## ctrl + alt + T /atvert terminalu
 
 burts + tab(2) /komandu saraksts saistits ar to burtu
 
