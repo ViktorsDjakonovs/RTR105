@@ -1,5 +1,5 @@
 # RTR105
-# datormācības kurss elektroniskā klade
+# = Datormācības kurss elektroniskā klade =
 
 
 ctrl + alt + T /atvert terminalu
@@ -31,9 +31,9 @@ lai izietu no \SH-whoami-exit
 
 ls /kas man ir pieejams(mapes)   
 
-# ls -l /objecti  
+ls -l /objecti  
 
-## ls -a /visi objecti   
+ls -a /visi objecti   
 
-### ls -la /kopa
+ls -la /kopa
 
