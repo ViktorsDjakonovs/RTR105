@@ -1,0 +1,67 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo -e "mkdir Mape\ncd Mape" > create_in.sh
+    4  ls
+    5  ls -l
+    6  cat create_in.sh
+    7  create
+    8  createfontdatachunk.py
+    9  echo $PATH
+   10  whereis firefox
+   11  pwd
+   12  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   13  create_in.sh
+   14  echo $PATH
+   15  ls -l
+   16  chmod 764 create_in.sh 
+   17  ls -l
+   18  create
+   19  create_in.sh
+   20  ls
+   21  create
+   22  history
+   23  create_in.sh
+   24  LS
+   25  ls
+   26  create
+   27  create_in.sh 
+   28  ls -l
+   29  ls
+   30  echo $PATH 
+   31  PATH=$PATH:~/Mape
+   32  echo $PSTH
+   33  echo $PATH
+   34  /home/user/create_in.sh 
+   35  ./create_in.sh 
+   36  nano create_in.sh 
+   37  pwd
+   38  ls -l
+   39  git clone https://github.com/ViktorsDjakonovs/RTR105
+   40  ls -l
+   41  cd RTR105
+   42  ls -l
+   43  nano README.md
+   44  pwd
+   45  ls -l
+   46  nano README.md 
+   47  history
+   48  nano README.md 
+   49  nano git-upload
+   50  ls -l
+   51  nano git-upload
+   52  ls -l
+   53  nano git-upload
+   54  history > history_20180918.txt
+   55  ls
+   56  ls -l
+   57  chmod 764 git-upload
+   58  ls -l
+   59  ./git-upload 
+   60  ./git-upload 20180918_14_05
+   61  nano git-upload 
+   62  ./git-upload 20180918_14_05
+   63  python
+   64  ipython
+   65  idle &
+   66  ls -l
+   67  history > hystory_20180918.txt
