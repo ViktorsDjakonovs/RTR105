@@ -1,10 +1,10 @@
       VirtualBox --startvm XP
      quartus
      echo -e "mkdir Mape\ncd Mape" > create_in.sh //jauna mape ar kodu
-     cat create_in.sh
+     cat create_in.sh //mapes vieta
      createfontdatachunk.py
-     echo $PATH
-     whereis firefox
+     echo $PATH //
+     whereis firefox //kur atrodas firefox
      PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
     echo $PATH
     chmod 764 create_in.sh
