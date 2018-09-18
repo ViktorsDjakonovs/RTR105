@@ -63,12 +63,6 @@ interpret the base from the string as an integer literal.
 float(x) -> floating point number
 
 Convert a string or number to a floating point number, if possible.
->>> tupe(b)
-
-Traceback (most recent call last):
-  File "<pyshell#19>", line 1, in <module>
-    tupe(b)
-NameError: name 'tupe' is not defined
 >>> type(b)
 <type 'float'>
 >>> c = D
@@ -85,14 +79,6 @@ Return a nice string representation of the object.
 If the argument is a string, the return value is the same object.
 >>> type(c)
 <type 'str'>
->>> burts 'V'
-SyntaxError: invalid syntax
->>> burts "v"
-SyntaxError: invalid syntax
->>> burts "V"
-SyntaxError: invalid syntax
->>> burts"V"
-SyntaxError: invalid syntax
 >>> burts = "V"
 >>> ord(burts)
 86
