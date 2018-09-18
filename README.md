@@ -36,3 +36,11 @@ ls -a /visi objecti
 
 ls -la /kopa
 
+PAPILDINAJUMS...
+
+   27  create_in.sh 
+   28  ls -l
+   29  ls
+   30  echo $PATH 
+   31  PATH=$PATH:~/Mape
+   32  echo $PATH
