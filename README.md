@@ -38,6 +38,13 @@ ls -la /kopa
 
 PAPILDINAJUMS...
 
+hrs = float(raw_input("Enter Hours:"))
+rt = float(raw_input("Enter Rate:"))
+pay = hrs*rt
+print(pay)
+
+
+
    27  create_in.sh 
    28  ls -l
    29  ls
