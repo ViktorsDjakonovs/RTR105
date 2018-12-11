@@ -43,11 +43,29 @@ rt = float(raw_input("Enter Rate:"))
 pay = hrs*rt
 print(pay)
 
+cat /bin/ls - random spam
 
+nano mans_skripts.sh -
 
-   27  create_in.sh 
-   28  ls -l
-   29  ls
-   30  echo $PATH 
-   31  PATH=$PATH:~/Mape
-   32  echo $PATH
+echo $PATH -
+
+chmod 764 mans_skripts.sh - dod permit faila lasišanai
+
+PATH=$PATH:~ - piešķiramās operācijas
+
+git clone https://github.com/181REB281/RTR105 -
+
+git pull - quick fix ja ir divi branches
+
+python - atver python
+
+vars() - parāda darbības
+
+builtins - galvena mape (4ip)
+
+builtins.doc - cita mape
+
+ipython - atver citu python variantu
+
+idle & - atver VELVIENU python variantu
+
