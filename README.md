@@ -53,7 +53,6 @@ chmod 764 mans_skripts.sh - dod permit faila lasišanai
 
 PATH=$PATH:~ - piešķiramās operācijas
 
-git clone https://github.com/181REB281/RTR105 -
 
 git pull - quick fix ja ir divi branches
 
