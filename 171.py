@@ -1,4 +1,4 @@
-# Fails: 170.py
+# Fails: 171.py
 # Autors: Viktors Djakonovs
 # Apliecibas numurs: 181REB305
 # Datums: 13.11.2018.
@@ -21,10 +21,10 @@ funb = f(b)
 
 # Paarbaudam, vai dotajaa intervaalaa ir saknes:
 if (funa * funb > 0.0):
-    print "Dotajaa intervala [%s, %s] saknju nav"% (a,b)
+    print("Dotajaa intervala [%s, %s] saknju nav"% (a,b))
     sleep(1); exit() # Zinjo uz ekraana, gaida 1 sec. un darbu pabeidz
 else:
-    print "Dotajaa intervaalaa sakne (s) ir!"
+    print("Dotajaa intervaalaa sakne (s) ir!")
 
 #Defineejam precizitaati , ar kaadu mekleesim sakni:
 deltax = +-0.0001
@@ -37,4 +37,4 @@ while(fabs(b-a) > deltax):
     else:
         a = x
 
-print"Sakne ir: ", x
+print("Sakne ir: ", x)
